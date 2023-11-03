@@ -31,6 +31,4 @@
   <a href="https://instagram.com/filipeotaviomm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/filipeotaviomm/filipeotaviomm/blob/output/github-contribution-grid-snake.svg)
-
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=filipeotaviomm&repo=filipeotaviomm&theme=react)](https://github.com/filipeotaviomm/filipeotaviomm)
+![snake gif](https://github.com/filipeotaviomm/filipeotaviomm/blob/output/github-contribution-grid-snake.svg)
