@@ -1,4 +1,6 @@
-<h1 align="center color="white">Hello! My name is Filipe Otavio. I am a Full Stack Web Developer.</h1>
+<h1 align="center" color="white">Hello! My name is Filipe Otavio. I am a Full Stack Web Developer.</h1>
+
+<p  align="center" color="white">Your are welcome to checkout my repositories and all the projects I have done. And let's share information 😃️ </p>
 
 <div align="center">
   <a href="https://github.com/filipeotaviomm">
@@ -19,7 +21,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="gitHub" height="30" width="40" src="/assets/GitHub.png">
+  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
 </div>
 
 <br>
