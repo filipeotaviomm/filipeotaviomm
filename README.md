@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://github.com/filipeotaviomm">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipeotaviomm&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipeotaviomm&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeotaviomm&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
@@ -29,4 +29,10 @@
   <a href="https://www.linkedin.com/in/filipeotaviomm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:filipeotaviomm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/filipeotaviomm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/filipeotaviomm/filipeotaviomm/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
