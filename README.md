@@ -1,6 +1,6 @@
 <h1 align="center" color="white">Hello! My name is Filipe Otavio. I am a Full Stack Web Developer.</h1>
 
-<p  align="center" color="white">Your are welcome to checkout my repositories and all the projects I have done. And let's share information 😃️ </p>
+<p  align="center" color="white">Your are welcome to checkout my repositories and all the projects I have done. And let's share information...😃️ </p>
 
 <div align="center">
   <a href="https://github.com/filipeotaviomm">
